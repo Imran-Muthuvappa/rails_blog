@@ -5,4 +5,6 @@ series.
 Rails version 4.2.6
 Ruby version 2.2.3
 
+Live at https://guarded-chamber-91508.herokuapp.com
+
 <tt>rake doc:app</tt>.
